@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000247
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བསྐྱེད་རིམ་གྱི་ཁྲིད་ཡིག་ཡང་ཡིག་ཟབ་པའི་མན་ངག་ཅེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། མཚུངས་མེད་གྲུབ་པའི་དབང་ཕྱུག་ཤཱཀྱ་ཤྲཱི་ཛྙཱ་ནའི་རྒྱལ་སྲས་འཕགས་མཆོག་རྡོ་རྗེ་མཆོག
-  sku: KS-SP-04
   layers:
   - book_title
   - author
   - quotation
   - sabche
+  id: KS-SP-04
 web_metadata:
   title:
     en: Profound Ancillary Instructions for the Practice of the Creation Phase Yoga
